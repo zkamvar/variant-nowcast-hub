@@ -1,7 +1,7 @@
 team_name: "UMass Amherst"
-team_abbr: "UMass"
+team_abbr: "TEST"
 model_name: "Hierarchical Multinomial Logistic Regression"
-model_abbr: "HMLR"
+model_abbr: "MOD"
 model_version: "1.0"
 model_contributors: [
   {
