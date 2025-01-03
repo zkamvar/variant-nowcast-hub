@@ -23,4 +23,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run validations
-        run: validate.R . ${{ env.GITHUB_REPOSITORY }} ${{ github.event.number }}
+        run: validate.R . ${{ github.repository }} ${{ github.event.number }}
